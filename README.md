@@ -51,7 +51,12 @@ In today’s fast-paced world, many individuals struggle to maintain a healthy l
 - IBM Granite Foundation Model (for language understanding)
 - IBM Agent Lab (for rapid prototyping and conversational flow design)
 
+Images:::::::
+![Main Interface](https://github.com/user-attachments/assets/f1ef7b33-ddb3-4b81-ad60-a08ab1b45769)
+![Working Interface](https://github.com/user-attachments/assets/23baf49d-e0f9-4922-9791-9a527220d5b5)
+
 ---
+
 
 ## 🛠️ How to Run the Project Locally
 
